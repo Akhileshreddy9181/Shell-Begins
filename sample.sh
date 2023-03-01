@@ -1,4 +1,6 @@
-echo Hello World
+#Enabling colour
+echo -e Hello World
 
-# colour syntax
-#
+#Print multiple lines
+
+echo The components in roboshop are : \n cart\n shipping \n payment\n user\n dispatch
