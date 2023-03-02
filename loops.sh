@@ -6,3 +6,7 @@ while [ $i -gt 0 ]; do
   i=$(($i-1))
   sleep 1
 done
+
+#for loops
+
+
